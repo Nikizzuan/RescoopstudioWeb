@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 import Head from 'next/head'
 
-import TheFooter from '../components/the-footer'
+
 
 const HomeNina = (props) => {
   return (
@@ -135,7 +135,7 @@ const HomeNina = (props) => {
               </span>
             </div>
           </div>
-          <TheFooter></TheFooter>
+        
         </div>
       </main>
       <style jsx>
